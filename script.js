@@ -1,5 +1,5 @@
 
-    const targetDate = new Date("2025-05-01T00:00:00").getTime();
+    const targetDate = new Date("2025-05-31T00:00:00").getTime();
     const countdownEl = document.getElementById("countdown");
     const revealBox = document.getElementById("revealBox");
     const wishesMessage = document.getElementById("wishesMessage");
