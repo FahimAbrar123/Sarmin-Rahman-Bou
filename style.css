@@ -52,7 +52,6 @@
       background-color: rgba(0, 255, 255, 0.2);
       box-shadow: 0 0 15px #00ffff;
     }
-
     #wishesMessage, #galleryWrapper {
       display: none;
       margin-top: 20px;
@@ -120,5 +119,3 @@
     width: 390px;
     background-color: #000000;
 }
-
-    }
